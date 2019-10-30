@@ -462,4 +462,8 @@
 
     <!-- Whether memory from app_info_settings is available or not. -->
     <bool name="config_show_app_info_settings_memory">true</bool>
+
+    <!-- Whether the given language capitalizes nouns -->
+    <bool name="language_capitalizes_nouns">false</bool>
+    
 </resources>
