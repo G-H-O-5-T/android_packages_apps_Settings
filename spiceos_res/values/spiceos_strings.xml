@@ -207,4 +207,8 @@
       <string name="qs_bg_use_new_tint">QS tint toggle</string>
       <string name="qs_bg_use_new_tint_summary">Use accent color for qs tile icons and background (Requires systemui reboot)</string>
 
+      <!-- Three-fingers-swipe to screenshot -->
+      <string name="three_finger_gesture">Three finger gesture</string>
+      <string name="three_finger_gesture_summary">Swipe three finger to screenshot</string>
+
 </resources>
